@@ -28,7 +28,7 @@ class _CustomGoogleMapState extends State<CustomGoogleMap> {
     locationService = LocationService();
 
     updateMyLocation();
-
+    
     super.initState();
   }
 
@@ -99,7 +99,4 @@ class _CustomGoogleMapState extends State<CustomGoogleMap> {
 }
 
 
-// inquire about location service
-// request permission
-// get location
-// display
+
